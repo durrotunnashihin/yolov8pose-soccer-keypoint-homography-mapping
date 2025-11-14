@@ -1,5 +1,5 @@
 # Evaluating YOLOv8-Pose Variants for Accurate Soccer Field Keypoint Detection and Homography Mapping
-<img width="1039" height="504" alt="Keypoint Detections-Page-1 (7)" src="https://github.com/user-attachments/assets/32fbb063-5490-4bcd-9067-01ebbde1a2e9" />
+<img width="2078" height="1008" alt="Keypoint Detections-Page-1 (6)" src="https://github.com/user-attachments/assets/064aa621-87b0-466a-b2f1-fce84c00276e" />
 
 ## 📝 Overview
 This repository provides the implementation, dataset, notebooks, and evaluation pipeline for the study “Evaluating YOLOv8-Pose Variants for Accurate Soccer Field Keypoint Detection and Homography Mapping.” 
@@ -39,4 +39,8 @@ If you use this repository, please cite:
 
 xxx, x., & xxx, x. (2025). 
 Evaluating YOLOv8-Pose Variants for Accurate Soccer Field Keypoint Detection and Homography Mapping.
+
+## 🤝 Contributions
+Contributions, pull requests, and discussions are welcome!
+Feel free to open issues for bugs, suggestions, or improvements.
 
