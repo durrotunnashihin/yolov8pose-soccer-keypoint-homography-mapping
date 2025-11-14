@@ -6,7 +6,7 @@ This repository provides the implementation, dataset, notebooks, and evaluation 
 
 The project investigates how different YOLOv8-Pose variants (Nano, Small, Medium, Large, X-Large) perform in detecting soccer field keypoints extracted from broadcast and scouting videos, and how well these predictions support homography estimation using DLT and RANSAC. 
 
-The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section — no manual setup or pip install -r requirements.txt is required.
+The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section **(no manual setup or pip install -r requirements.txt is required).**
 
 ## 🔍 Key Features
 1. YOLOv8-Pose training & inference for soccer field keypoint detection
